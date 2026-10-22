@@ -1,3 +1,7 @@
 .DS_Store
 homework 1/files/.ipynb_checkpoints/
 homework 1/.ipynb_checkpoints/
+uv.lock
+pyproject.toml
+.python-version
+src
